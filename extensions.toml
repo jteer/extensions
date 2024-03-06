@@ -22,6 +22,10 @@ version = "0.1.2"
 path = "extensions/cosmos"
 version = "0.0.1"
 
+[csv]
+path = "extensions/csv"
+version = "0.0.1"
+
 [dockerfile]
 path = "extensions/dockerfile"
 version = "0.0.1"

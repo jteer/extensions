@@ -22,6 +22,10 @@
 	path = extensions/cosmos
 	url = https://github.com/nauvalazhar/cosmos
 
+[submodule "extensions/csv"]
+	path = extensions/csv
+	url = https://github.com/jteer/csv.zed
+
 [submodule "extensions/dockerfile"]
 	path = extensions/dockerfile
 	url = git@github.com:d1y/dockerfile.zed.git
